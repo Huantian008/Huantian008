@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ruence
+# Hi there 👋, I'm Ruence. You can also call me Huantian Li.
 
 I'm a Computer Science student from JXUT.
 
@@ -40,13 +40,17 @@ Currently learning and building things with:
 
 ## About Me
 
-- I enjoy learning how things work from the ground up.
-- I'm interested in software development and algorithms.
-- I'm currently improving my programming and engineering skills step by step.
+- I enjoy learning new technologies and exploring interesting ideas.
+- I'm interested in Artificial Intelligence, software development, and computer science.
+- I'm also into anime culture.
+- In my free time, I like playing Project SEKAI, maimai, and League of Legends.
 
 ---
 
 ## Contact
 
-- GitHub: [Huantian008](https://github.com/Huantian008)
-- Email: huantian008@outlook.com
+## Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-Huantian008-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Huantian008)
+[![BiliBili](https://img.shields.io/badge/BiliBili-李欢天-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/38902425)
+[![Email](https://img.shields.io/badge/Email-Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:huantian008@outlook.com)
