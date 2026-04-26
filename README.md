@@ -49,8 +49,6 @@ Currently learning and building things with:
 
 ## Contact
 
-## Contact
-
 [![GitHub](https://img.shields.io/badge/GitHub-Huantian008-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Huantian008)
-[![BiliBili](https://img.shields.io/badge/BiliBili-李欢天-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/38902425)
-[![Email](https://img.shields.io/badge/Email-Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:huantian008@outlook.com)
+[![BiliBili](https://img.shields.io/badge/BiliBili-欢天_-FF69B4?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/38902425)
+[![Outlook](https://img.shields.io/badge/Outlook-huantian008%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:huantian008@outlook.com)
