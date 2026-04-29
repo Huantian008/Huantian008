@@ -4,7 +4,7 @@
 
 <br /><br />
 
-<h1>Hello my friend</h1>
+<h1>Hello 👋</h1>
 
 <br /><br />
 
