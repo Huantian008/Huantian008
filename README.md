@@ -1,9 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,45:2F80ED,100:38BDAE&height=220&section=header&text=Ruence&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Huantian%20Li%20%7C%20Computer%20Science%20Student&descAlignY=60&descSize=18" alt="Ruence profile banner" />
+<img width="100%" src="./assets/profile-sky-banner.jpg" alt="Ruence summer sky anime profile banner" />
 
+<br /><br />
 
-
+<h1>Hello my friend</h1>
 
 <br /><br />
 
@@ -15,15 +16,15 @@
     <img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
   <a href="mailto:huantian008@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Outlook" />
   </a>
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:B8E7FF,50:A7E8D8,100:F7FCFF&height=5&section=header" alt="Sky divider" />
+
 </div>
 
----
-
-## Profile
+## 🌸 Profile
 
 <table>
   <tr>
@@ -53,26 +54,26 @@
 
 ---
 
-## Tech Stack
+## ✨ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,js,html,css,nodejs,mysql,linux,docker,vscode,git&theme=dark&perline=6" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,html,css,nodejs,mysql,linux,docker,vscode,git&theme=light&perline=6" alt="Tech stack icons" />
 
 <br /><br />
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-B8E7FF?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-A7E8D8?style=for-the-badge&logo=c&logoColor=44515C)
+![Java](https://img.shields.io/badge/Java-FFE0B8?style=for-the-badge&logo=openjdk&logoColor=E76F51)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF2B8?style=for-the-badge&logo=javascript&logoColor=7A6400)
+![Node.js](https://img.shields.io/badge/Node.js-CDEFD8?style=for-the-badge&logo=nodedotjs&logoColor=2E7D32)
+![MySQL](https://img.shields.io/badge/MySQL-CFE7FF?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 </div>
 
 ---
 
-## GitHub Overview
+## 🧩 GitHub Overview
 
 <div align="center">
 
@@ -91,7 +92,7 @@
 
 ---
 
-## Beyond Code
+## 🍃 Beyond Code
 
 <table>
   <tr>
@@ -117,14 +118,14 @@
 
 <div align="center">
 
-### Connect With Me
+### 🌷 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huantian008)
 [![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/38902425)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:huantian008@outlook.com)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:huantian008@outlook.com)
 
 <br /><br />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDAE,55:2F80ED,100:1A1B27&height=120&section=footer" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,45:2F80ED,100:38BDAE&height=110&section=footer" alt="Footer wave" />
 
 </div>
