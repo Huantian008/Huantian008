@@ -77,16 +77,16 @@
 
 <div align="center">
 
-<img height="178" src="https://github-readme-stats.vercel.app/api?username=Huantian008&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12&bg_color=1A1B27" alt="Ruence's GitHub stats" />
-<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huantian008&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=330&border_radius=12&bg_color=1A1B27" alt="Most used languages" />
+<img height="178" src="https://github-readme-stats.vercel.app/api?username=Huantian008&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=16&bg_color=F7FCFF&title_color=2F80ED&text_color=53606A&icon_color=38BDAE" alt="Ruence's GitHub stats" />
+<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huantian008&layout=compact&hide_border=true&langs_count=6&card_width=330&border_radius=16&bg_color=F7FCFF&title_color=2F80ED&text_color=53606A" alt="Most used languages" />
 
 <br /><br />
 
-<img width="760" src="https://github-readme-streak-stats.herokuapp.com?user=Huantian008&theme=tokyonight&hide_border=true&border_radius=12&background=1A1B27" alt="Ruence's GitHub streak" />
+<img width="760" src="https://github-readme-streak-stats.herokuapp.com?user=Huantian008&hide_border=true&border_radius=16&background=F7FCFF&ring=2F80ED&fire=FB7299&currStreakNum=53606A&sideNums=53606A&currStreakLabel=2F80ED&sideLabels=7A8A92&dates=9AA7AE" alt="Ruence's GitHub streak" />
 
 <br /><br />
 
-<img width="760" src="https://github-readme-activity-graph.vercel.app/graph?username=Huantian008&theme=tokyo-night&hide_border=true&area=true&radius=12&bg_color=1A1B27&color=70A5FD&line=38BDAE&point=FFFFFF" alt="Ruence's GitHub activity graph" />
+<img width="760" src="https://github-readme-activity-graph.vercel.app/graph?username=Huantian008&hide_border=true&area=true&radius=16&bg_color=F7FCFF&color=53606A&line=38BDAE&point=2F80ED&area_color=B8E7FF&title_color=2F80ED" alt="Ruence's GitHub activity graph" />
 
 </div>
 
@@ -113,19 +113,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-
-### 🌷 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Huantian008)
-[![Bilibili](https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/38902425)
-[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:huantian008@outlook.com)
-
-<br /><br />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,45:2F80ED,100:38BDAE&height=110&section=footer" alt="Footer wave" />
-
-</div>
