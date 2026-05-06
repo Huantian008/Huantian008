@@ -77,8 +77,8 @@
 
 <div align="center">
 
-<img height="178" src="https://github-readme-stats.vercel.app/api?username=Huantian008&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=16&bg_color=F7FCFF&title_color=2F80ED&text_color=53606A&icon_color=38BDAE" alt="Ruence's GitHub stats" />
-<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huantian008&layout=compact&hide_border=true&langs_count=6&card_width=330&border_radius=16&bg_color=F7FCFF&title_color=2F80ED&text_color=53606A" alt="Most used languages" />
+<img height="178" src="https://github-readme-stats-one-bice.vercel.app/api?username=Huantian008&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=16&bg_color=F7FCFF&title_color=2F80ED&text_color=53606A&icon_color=38BDAE" alt="Ruence's GitHub stats" />
+<img height="178" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Huantian008&layout=compact&hide_border=true&langs_count=6&card_width=330&border_radius=16&bg_color=F7FCFF&title_color=2F80ED&text_color=53606A" alt="Most used languages" />
 
 <br /><br />
 
